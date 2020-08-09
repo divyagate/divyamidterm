@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">divyamidterm</string>
+    <string name="repourl">https://api.github.com/repositories</string>
+</resources>
